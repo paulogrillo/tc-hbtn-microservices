@@ -1,0 +1,20 @@
+# O que é microsserviços ?
+
+1) Visão geral da arquitetura Monolítica e de Microsserviços
+
+Monolítico é um sistema que consiste em uma única fonte de código, centralizando todas as operações como um núcleo.
+Com diversos componentes que o compõe. Um dos principais pontos negativos é que você tem um grande ponto único de falha, que significa
+que se houver algum erro em um componente X pode causar a falha parcial do sistema ou até mesmo quebrar a aplicação.
+
+Microserviços é uma arquitetura de softwere orientada a serviços com fraco acoplamento.
+Essa abordagem consiste em serviços independentes que se comunicam entre si, usando APIs associadas.
+
+
+2) Os benefícios da arquitetura de microsserviços - Cite 3 exemplos
+Baixo Acoplamento.
+Melhor Manutenção.
+Implatação/Evolução independente.
+
+
+3) Quais são os tipos de comunicação entre os microsserviços ?
+Comunicação HTTP, Comunicação por Mensagens, Comunicação Orientada a Eventos.
