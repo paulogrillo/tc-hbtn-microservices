@@ -1,0 +1,17 @@
+
+Serverless é um modelo de desenvolvimento em nuvem para criação e execução de aplicações sem o gerenciamento de servidores.
+
+A função como serviço é uma categoria de serviços de computação em nuvem que fornece uma plataforma
+que permite aos clientes desenvolver, executar e gerenciar funcionalidades de aplicativos sem a complexidade de
+construir e manter a infraestrutura normalmente associada ao desenvolvimento e lançamento de um aplicativo.
+
+
+Computação em nuvem ― é um dos recursos que o avanço da tecnologia nos proporcionou. Ele permite que os
+usuários armazenem e acessem sistemas e ferramentas, pela internet, sem a obrigação de salvar dados em um computador.
+Normalmente, utiliza um servidor remoto.
+
+Microserviço é uma aplicação única com objetivo específico de resolver um problema de forma eficiênte, por outro lado a
+arquitetura monolítica é uma aplicação com base na junção de diversos componentes agrupados que formão o sistema como um núcleo.
+
+O principal ponto de uma Arquitetura Serverless, é propiciar que empresas de software criem e mantenham aplicativos web sem se preocupar
+com a infraestrutura em que eles estão funcionando.
